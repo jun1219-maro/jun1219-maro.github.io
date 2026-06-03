@@ -46,11 +46,8 @@ a {
 ul {
   list-style: none;
 }
-.linomal {
+li {
   content: "★";
-  color: var(--theme-color);
-}
-.linone {
   color: var(--theme-color);
 }
 
