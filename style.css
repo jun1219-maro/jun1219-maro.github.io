@@ -2,6 +2,10 @@
         全体
 -------------------- */
 
+body {
+font-family: 'メイリオ';
+}
+
 :root {
   --theme-color: #00a0a0;
 }
